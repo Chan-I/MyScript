@@ -9,4 +9,4 @@
 
 ## win_backup/  用于每次增量备份一些文件夹，非常好用的批处理指令
 
- 
+## chrome password/ 用于查看chrome中保存的账号密码
