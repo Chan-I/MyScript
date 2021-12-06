@@ -1,0 +1,20 @@
+
+set paste
+set tabstop=4
+set cindent
+set hlsearch
+set ruler
+set incsearch
+
+set showmatch
+
+set matchtime=0
+set t_Co=256
+set softtabstop=4
+set helplang=en
+set magic
+set termencoding=utf-8
+set encoding=utf8
+
+
+
