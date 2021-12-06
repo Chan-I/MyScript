@@ -32,5 +32,3 @@ python tableB.py > crossdomain_data_B.csv
 ```
 生成的数据会放在当前执行目录下的crossdomain_data_A.csv和crossdomain_data_B.csv文件中。
 
-
-
