@@ -15,3 +15,5 @@
 ## chrome password/ 用于查看chrome中保存的账号密码
 
 ## cpu_test/ 用于对CPU进行压力测试
+
+## CD_Auto_CPY/ 自动检测插入的光盘，并根据操作绑定的路径自动复制文件
